@@ -6,7 +6,7 @@ This repository contains the final project for MAS 648, focused on predicting cu
 **Context:** This project is based on the [Kaggle Internet Service Provider Churn Competition](https://www.kaggle.com/competitions/internet-service-provider-churn).
 
 ## Authors
-**Lance Pollack, Riley Yee, Noah Chance, Waleed El-Jack**
+**Lance Pollack, Riley Yee, Noah Chance, Waleed El-Jack**\
 *MAS648, Miami Herbert Business School*
 
 ## Model Development & Selection
