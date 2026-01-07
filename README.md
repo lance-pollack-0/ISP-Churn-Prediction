@@ -1,7 +1,7 @@
 # ISP Churn Prediction with Gradient Boosting
 
 ## Project Overview
-This repository contains the final project for MAS 648, focused on predicting customer churn for an Internet Service Provider (ISP). The project utilizes feature engineering and ensemble machine learning models (XGBoost, CatBoost) to identify at-risk customers.
+This repository contains the final project for MAS 648, focused on predicting customer churn for an Internet Service Provider (ISP). The project utilizes feature engineering and ensemble machine learning models (XGBoost) to identify at-risk customers.
 
 **Context:** This project is based on the [Kaggle Internet Service Provider Churn Competition](https://www.kaggle.com/competitions/internet-service-provider-churn).
 
